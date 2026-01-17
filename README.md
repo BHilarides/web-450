@@ -1,4 +1,3 @@
-# web-450
 <h1>WEB 450</h1>
 <h2>Contributors</h2>
 <ul>
