@@ -2,7 +2,7 @@
  * Author: Ben Hilarides
  * Date: 1/23/26
  * File: channel-rating-by-month.component.ts
- * Description: Modified Submit button text to "Get Data"
+ * Description: Modified Submit button text to "Get Data" line 39
  */
 
 import { ChangeDetectorRef, Component } from '@angular/core';
